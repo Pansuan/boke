@@ -1,5 +1,5 @@
 {
-  "buildCommand": "bundle install && bundle exec jekyll build",
+  "buildCommand": "LANG=en_US.UTF-8 bundle install && LANG=en_US.UTF-8 bundle exec jekyll build",
   "outputDirectory": "_site",
   "framework": null,
   "installCommand": "bundle install"
