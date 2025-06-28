@@ -1,0 +1,12 @@
+{
+  "name": "boke",
+  "version": "1.0.0",
+  "description": "Personal blog built with Jekyll",
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+} 
