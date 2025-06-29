@@ -478,4 +478,6 @@ if __name__ == "__main__":
 ```
 ![](/images/posts/wenku/7.png)
 
+[免责声明：仅限用于学习和研究目的；不得将上述内容用于商业或者非法用途，否则，一切后果请用户自负。您必须在下载后的24个小时之内，从您的电脑或手机中彻底删除上述内容。]
+
 [1]: https://wenku.baidu.com/view/0e9eb6e32fc58bd63186bceb19e8b8f67d1cef4f.html?fr=hp_Database&_wkts_=1751214485751
